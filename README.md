@@ -20,6 +20,7 @@ This script makes use of [PyTube](https://github.com/pytube/pytube), [Pyperclip]
 
 ```bash
 pip install pytube pyperclip urllib
+```
 
 ### Usage
 
@@ -29,6 +30,7 @@ pip install pytube pyperclip urllib
 
 ``` bash
 python ytinfo.py
+```
 
 4. When prompted, input a video URL, or paste a list of URLs.
 5. Hit enter to advance to the next line, where you can add another URL, or press Enter again to finish.
