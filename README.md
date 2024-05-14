@@ -1,5 +1,7 @@
 # ytinfo
 
+( Check out my updated iteration of this project: [video-to-sheet](https://github.com/andyglover/video-to-sheet) which handles playlists and exports results to a spreadsheet )
+
 A simple Python script that prompts for a list of YouTube video URLs, separated by new lines, and returns the channel name, title, runtime, and URL of each to the clipboard.
 
 I use a text editor for notetaking and I like to format my notes this way. I found it time-consuming to copy this information from each YouTube video page. 
